@@ -1,5 +1,5 @@
 ---
-title: "Home"
+title: "SCENIC_workflow"
 site: workflowr::wflow_site
 output:
   workflowr::wflow_html:
@@ -9,3 +9,20 @@ editor_options:
 ---
 
 Welcome to my research website.
+
+该流程参考自WGCNA官网。
+
+
+1. [SCENIC工作流程概览.](Overview_of_SCENIC_workflow.html) 
+
+2. [0.数据和分析环境准备.](Step0_Data_preparation.html)
+
+3. [1.基于GENIE3识别潜在的TF-targets网络.](Step1_GENIE3_identification_of-potential_TF-targets_based_on_co-expression.html)
+
+4. [2.基于motif的直接TF-targets确定.](Step2_motif_discovery.html)
+
+5. [3.细胞的regulon活性评分.](Step3_Cell_scoring.html)
+
+6. [4.细胞聚类及数据探索.](Step4_Clustering.html)
+
+7. [相关概念集合.](related_conceptions.html)

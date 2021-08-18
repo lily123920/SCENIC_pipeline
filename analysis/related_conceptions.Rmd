@@ -1,0 +1,9 @@
+---
+title: "相关概念"
+output: html_document
+---
+
+1.  `module`：一个转录因子TF和其相应的预测靶基因targets构成一个module。
+2.  `co-expression module/network`：基于表达数据得到的共表达关系，量化指标可以为pearson correlation coefficient
+3.  `regulon`: In cell biology and genetics, a regulon is a collection of genes or operons under regulation by the same regulatory protein.在细胞生物学和遗传学中个，调节子指的是受同一个调控蛋白调控的基因或操纵子的集合。 在该分析中指的是：`每个TF`及其`potential direct targets`构成一个`regulon`（可翻译成`调控单元`）。
+4.  GRN, gene regulatory network 基因调控网络：
